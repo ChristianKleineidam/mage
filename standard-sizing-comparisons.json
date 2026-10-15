@@ -258,5 +258,31 @@
     "ComponentFontsCompared": 10,
     "Native100": true,
     "FixedDeckDivider": null
+  },
+  {
+    "Pair": "native200-font14",
+    "Scale": 2.0,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      2560,
+      1800
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "native200-font34",
+    "Scale": 2.0,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      2560,
+      1800
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
   }
 ]

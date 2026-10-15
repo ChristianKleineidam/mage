@@ -158,5 +158,21 @@
   {
     "Path": "screenshots/standard-sizing/restored-menu-native100-font34.png",
     "SHA256": "45c12b7cbc1ad759ee9ce2b2e40cf46d3c05c6d99f2efceb4a4e5670d908d0f7"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-native200-font14.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-native200-font14.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-native200-font34.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-native200-font34.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
   }
 ]

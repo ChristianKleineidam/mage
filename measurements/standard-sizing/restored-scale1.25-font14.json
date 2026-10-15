@@ -611,6 +611,7 @@
   "device": "\\Display1",
   "dialogFontSetting": 14,
   "native100": false,
+  "native200": false,
   "scale": 1.25,
-  "sourceCommit": "f1d0e92da12e14d406055f0bcfc77360e4470562"
+  "sourceCommit": "1857e0b8fb1ba6f4e13793f1f3e441f489123fde"
 }

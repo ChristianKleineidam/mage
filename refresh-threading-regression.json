@@ -1,0 +1,19 @@
+{
+  "PreviousCombined": "f1d0e92da12e14d406055f0bcfc77360e4470562",
+  "FixedCombined": "1857e0b8fb1ba6f4e13793f1f3e441f489123fde",
+  "Tests": [
+    "downloaderRefreshRunsOnTheEventDispatchThread",
+    "themeRefreshRunsOnTheEventDispatchThread"
+  ],
+  "Before": {
+    "Cases": 2,
+    "Errors": 2,
+    "Reason": "Live UI delegates replaced from a worker while the EDT is busy"
+  },
+  "AfterFocused": {
+    "Cases": 21,
+    "Failures": 0,
+    "Errors": 0
+  },
+  "Coverage": "Worker queues the refresh without blocking; all UI delegate updates run on the EDT; internal-dialog dragging, layout and painting complete"
+}
