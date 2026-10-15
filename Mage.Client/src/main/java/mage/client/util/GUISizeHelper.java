@@ -91,6 +91,11 @@ public final class GUISizeHelper {
      * @param reloadTheme use it after theme changes only
      */
     public static void refreshGUIAndCards(boolean reloadTheme) {
+        if (!SwingUtilities.isEventDispatchThread()) {
+            // Image downloads finish on a worker; UI delegates must stay installed while Swing paints.
+            SwingUtilities.invokeLater(() -> refreshGUIAndCards(reloadTheme));
+            return;
+        }
         calculateGUISizes();
         if (reloadTheme) {
             GuiDisplayUtil.refreshThemeSettings();
