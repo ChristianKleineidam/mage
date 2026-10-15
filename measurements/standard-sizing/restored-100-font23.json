@@ -608,7 +608,9 @@
   "default.tabs.font": "sansserif/0/12.0",
   "default.textField.font": "sansserif/0/12.0",
   "default.tree.font": "sansserif/0/12.0",
+  "device": "\\Display1",
   "dialogFontSetting": 23,
+  "native100": false,
   "scale": 1.0,
-  "sourceCommit": "289f3462386e20d6ffdbaf27c3d0ac2947cf5c63"
+  "sourceCommit": "f1d0e92da12e14d406055f0bcfc77360e4470562"
 }

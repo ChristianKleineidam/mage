@@ -206,5 +206,57 @@
     "ComponentFontsCompared": 134,
     "Native100": false,
     "FixedDeckDivider": 678
+  },
+  {
+    "Pair": "menu-native100-font14",
+    "Scale": 1.0,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      4000,
+      110
+    ],
+    "ComponentFontsCompared": 10,
+    "Native100": true,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "menu-native100-font17",
+    "Scale": 1.0,
+    "FontSetting": 17,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      4000,
+      110
+    ],
+    "ComponentFontsCompared": 10,
+    "Native100": true,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "menu-native100-font23",
+    "Scale": 1.0,
+    "FontSetting": 23,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      4000,
+      110
+    ],
+    "ComponentFontsCompared": 10,
+    "Native100": true,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "menu-native100-font34",
+    "Scale": 1.0,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      4000,
+      110
+    ],
+    "ComponentFontsCompared": 10,
+    "Native100": true,
+    "FixedDeckDivider": null
   }
 ]

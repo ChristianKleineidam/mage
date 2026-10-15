@@ -126,5 +126,37 @@
   {
     "Path": "screenshots/standard-sizing/restored-deck-100-font34.png",
     "SHA256": "bfb0e7ecdcdddc40ce762fd436ea26165ffb24f148221497b2d18305538c2c07"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-menu-native100-font14.png",
+    "SHA256": "bc5a0825f48917999db9a01ed4eb9d9def8fff50572a379f05249d3a1fb48117"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-menu-native100-font14.png",
+    "SHA256": "bc5a0825f48917999db9a01ed4eb9d9def8fff50572a379f05249d3a1fb48117"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-menu-native100-font17.png",
+    "SHA256": "e7ed49324eb11086273dae3a1794016acf6e339df187df0e004183c6d2c445ce"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-menu-native100-font17.png",
+    "SHA256": "e7ed49324eb11086273dae3a1794016acf6e339df187df0e004183c6d2c445ce"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-menu-native100-font23.png",
+    "SHA256": "98997b90d89b0f2e9e588d96de47b9751f3375b5e3d5a67c317a5b83e5f63f78"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-menu-native100-font23.png",
+    "SHA256": "98997b90d89b0f2e9e588d96de47b9751f3375b5e3d5a67c317a5b83e5f63f78"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-menu-native100-font34.png",
+    "SHA256": "45c12b7cbc1ad759ee9ce2b2e40cf46d3c05c6d99f2efceb4a4e5670d908d0f7"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-menu-native100-font34.png",
+    "SHA256": "45c12b7cbc1ad759ee9ce2b2e40cf46d3c05c6d99f2efceb4a4e5670d908d0f7"
   }
 ]

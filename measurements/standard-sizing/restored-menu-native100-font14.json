@@ -1,0 +1,98 @@
+{
+  "100% Free mem": {
+    "bounds": [
+      1018,
+      5,
+      124,
+      17
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "About": {
+    "bounds": [
+      863,
+      2,
+      65,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "CONNECT TO SERVER": {
+    "bounds": [
+      243,
+      2,
+      179,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "Card Viewer": {
+    "bounds": [
+      547,
+      2,
+      105,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "Debug": {
+    "bounds": [
+      938,
+      2,
+      70,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "Deck Editor": {
+    "bounds": [
+      432,
+      2,
+      105,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "Download": {
+    "bounds": [
+      763,
+      2,
+      90,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "Feedback": {
+    "bounds": [
+      662,
+      2,
+      91,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "Preferences": {
+    "bounds": [
+      128,
+      2,
+      105,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "Switch panels (0)": {
+    "bounds": [
+      2,
+      2,
+      116,
+      22
+    ],
+    "font": "java.awt.Font[family=Arial,name=Arial,style=plain,size=14]"
+  },
+  "dialogFontSetting": 14,
+  "gamesFont": "javax.swing.plaf.FontUIResource[family=SansSerif,name=sansserif,style=plain,size=12]",
+  "native100": true,
+  "scale": 1.0,
+  "toolbarHeight": 26,
+  "sourceCommit": "f1d0e92da12e14d406055f0bcfc77360e4470562"
+}
