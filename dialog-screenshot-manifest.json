@@ -1,0 +1,17 @@
+[
+  {
+    "Path": "screenshots/fixed-connection-font34.png",
+    "SHA256": "5e5e48ee9f0f0decc80bb4590be04451d2ad80c63dce1ed5ddaf3556aac07e7e",
+    "Capture": "Installed jar, hidden native peer, simulated 200%, font 34."
+  },
+  {
+    "Path": "screenshots/fixed-download-loading-font34.png",
+    "SHA256": "90ccbc5fb12c2457228f1a543fdd93b36dfb2a4dece69f6567cf4a57def80568",
+    "Capture": "Installed jar, hidden native peer, simulated 200%, font 34."
+  },
+  {
+    "Path": "screenshots/fixed-download-options-font34.png",
+    "SHA256": "b291c7e34a156e61ce06bcb48cd8471bdbe2d343f8f1c4268b644fadb389c172",
+    "Capture": "Installed jar, hidden native peer, simulated 200%, font 34."
+  }
+]
