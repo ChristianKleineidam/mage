@@ -1,0 +1,137 @@
+[
+  {
+    "Draft": "01-font-layout.txt",
+    "Source": "screenshots/before-connection-font34-background.png",
+    "File": "attachments/before-connection-font34-background.png",
+    "MimeType": "image/png",
+    "Width": 2732,
+    "Height": 1536,
+    "SHA256": "3C254821E4B1B11DB510FDF9AB46125AE38C9B11279B526886DB8780597E19E9"
+  },
+  {
+    "Draft": "01-font-layout.txt",
+    "Source": "screenshots/after-connection-font34-background.png",
+    "File": "attachments/after-connection-font34-background.png",
+    "MimeType": "image/png",
+    "Width": 2732,
+    "Height": 1536,
+    "SHA256": "039F7642C4AB92B9CC10ACD51B01B3167DD95D938A87F2E00F6E47D404959B97"
+  },
+  {
+    "Draft": "01-font-layout.txt",
+    "Source": "screenshots/native-deck-font34-portrait-before-refresh.png",
+    "File": "attachments/native-deck-font34-portrait-before-refresh.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 1200,
+    "Height": 960,
+    "SHA256": "A159F216476DA21E8374937348B4C1BFA6EF371C3B72B6227B3415F970C27CE1"
+  },
+  {
+    "Draft": "01-font-layout.txt",
+    "Source": "screenshots/native-deck-font34-portrait-after-refresh.png",
+    "File": "attachments/native-deck-font34-portrait-after-refresh.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 986,
+    "Height": 693,
+    "SHA256": "7465AED421A09832F51D574969354BF001EC6688B7FAF72FBC7C57AE97BD6353"
+  },
+  {
+    "Draft": "01-font-layout.txt",
+    "Source": "screenshots/physical125-draft-toolbar-before.jpg",
+    "File": "attachments/physical125-draft-toolbar-before.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 1387,
+    "Height": 894,
+    "SHA256": "3F1419A7D666D76FFB499B7BB6A5FCDFF5A664DD55966C3BE1141312B31E84F4"
+  },
+  {
+    "Draft": "01-font-layout.txt",
+    "Source": "screenshots/physical125-draft-toolbar-fixed.jpg",
+    "File": "attachments/physical125-draft-toolbar-fixed.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 1387,
+    "Height": 894,
+    "SHA256": "3A909C0A047090E63B404C2F776C60568020E6C40B871EA5C55EADAC75BAAD99"
+  },
+  {
+    "Draft": "02-draft-divider.txt",
+    "Source": "screenshots/native-draft-font23-portrait100.png",
+    "File": "attachments/native-draft-font23-portrait100.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 986,
+    "Height": 693,
+    "SHA256": "4C5133B04690380F6BBBEC8266C5824AF22C5848E19D732E608FB0779F4CFF14"
+  },
+  {
+    "Draft": "02-draft-divider.txt",
+    "Source": "screenshots/physical150-draft-toolbar-fixed.jpg",
+    "File": "attachments/physical150-draft-toolbar-fixed.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 1388,
+    "Height": 894,
+    "SHA256": "431746C6C6FD25AEE51CB4640838531B1362168A81B0977B59EE61472DF23E50"
+  },
+  {
+    "Draft": "03-damage-layout.txt",
+    "Source": "screenshots/before-damage-font34-background.png",
+    "File": "attachments/before-damage-font34-background.png",
+    "MimeType": "image/png",
+    "Width": 2732,
+    "Height": 1536,
+    "SHA256": "CED0B186414B9E6767102B5CA3155EAE1B1182FC9469C80FFBB21EB3AECF6DC7"
+  },
+  {
+    "Draft": "03-damage-layout.txt",
+    "Source": "screenshots/after-damage-font34-background.png",
+    "File": "attachments/after-damage-font34-background.png",
+    "MimeType": "image/png",
+    "Width": 2732,
+    "Height": 1536,
+    "SHA256": "BC5D27340912E1D1BA62D4ECD6086370B79A0BAD8F2050FF1441581A76B93419"
+  },
+  {
+    "Draft": "04-popup-position.txt",
+    "Source": "screenshots/native-tooltip-font34-primary-lower-right.png",
+    "File": "attachments/native-tooltip-font34-primary-lower-right.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 1189,
+    "Height": 895,
+    "SHA256": "B6CE5C23D9B50DCD8210A26BDEE71CFEB87328E9056C1483CBC9A576AA6B10B4"
+  },
+  {
+    "Draft": "04-popup-position.txt",
+    "Source": "screenshots/native-tooltip-font34-portrait-lower-right.png",
+    "File": "attachments/native-tooltip-font34-portrait-lower-right.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 1186,
+    "Height": 893,
+    "SHA256": "32B84AFF36845390DE823C42C82D708D6B972FE3A86263DC32EF8389249AEDBA"
+  },
+  {
+    "Draft": "05-hidpi-rendering.txt",
+    "Source": "screenshots/before-real-assets-scale2.0.png",
+    "File": "attachments/before-real-assets-scale2.0.png",
+    "MimeType": "image/png",
+    "Width": 2320,
+    "Height": 1240,
+    "SHA256": "2EC555B1472BFDD3DBE0D52CCE2C2C1736D2084645D32975A5C4E7900CE2B8A5"
+  },
+  {
+    "Draft": "05-hidpi-rendering.txt",
+    "Source": "screenshots/after-real-assets-scale2.0.png",
+    "File": "attachments/after-real-assets-scale2.0.png",
+    "MimeType": "image/png",
+    "Width": 2320,
+    "Height": 1240,
+    "SHA256": "C552D82C10D700E2D8116ED3C6E8E8421672C680ECF841C5C321A31B82B41267"
+  },
+  {
+    "Draft": "06-deck-filter.txt",
+    "Source": "screenshots/native-filter-font34-search-and-arrow.png",
+    "File": "attachments/native-filter-font34-search-and-arrow.jpg",
+    "MimeType": "image/jpeg",
+    "Width": 1189,
+    "Height": 895,
+    "SHA256": "3423BA9CA6C5B7535EC65F9A4B09E46536CDC80FD1E2ADFCAEE6F9F7691704DE"
+  }
+]
