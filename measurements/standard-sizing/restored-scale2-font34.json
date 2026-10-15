@@ -1,0 +1,614 @@
+{
+  "cards.cardArea": {
+    "bounds": [
+      0,
+      0,
+      1194,
+      209
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      1,
+      1
+    ]
+  },
+  "cards.cbSortBy": {
+    "bounds": [
+      214,
+      0,
+      120,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      120,
+      20
+    ]
+  },
+  "cards.chkPiles": {
+    "bounds": [
+      150,
+      0,
+      52,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      52,
+      23
+    ]
+  },
+  "cards.jToggleCardView": {
+    "bounds": [
+      396,
+      0,
+      40,
+      22
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      40,
+      22
+    ]
+  },
+  "cards.jToggleListView": {
+    "bounds": [
+      346,
+      0,
+      44,
+      22
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      44,
+      22
+    ]
+  },
+  "cards.lblCount": {
+    "bounds": [
+      0,
+      2,
+      44,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      44,
+      20
+    ]
+  },
+  "cards.lblCreatureCount": {
+    "bounds": [
+      100,
+      2,
+      44,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      44,
+      20
+    ]
+  },
+  "cards.lblLandCount": {
+    "bounds": [
+      50,
+      2,
+      44,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      44,
+      20
+    ]
+  },
+  "cards.mainTable": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "Arial/0/34.0",
+    "preferred": [
+      730,
+      0
+    ]
+  },
+  "cards.panelCardArea": {
+    "bounds": [
+      1,
+      26,
+      1198,
+      213
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      5,
+      5
+    ]
+  },
+  "cards.panelControl": {
+    "bounds": [
+      0,
+      0,
+      1198,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      442,
+      23
+    ]
+  },
+  "connection.btnCancel": {
+    "bounds": [
+      538,
+      305,
+      77,
+      70
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      70,
+      32
+    ]
+  },
+  "connection.btnCheckStatus": {
+    "bounds": [
+      331,
+      0,
+      188,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnConnect": {
+    "bounds": [
+      96,
+      305,
+      290,
+      70
+    ],
+    "font": "Tahoma/1/11.0",
+    "preferred": [
+      130,
+      30
+    ]
+  },
+  "connection.btnFindBeta": {
+    "bounds": [
+      258,
+      0,
+      90,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindEU": {
+    "bounds": [
+      86,
+      0,
+      80,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindLocal": {
+    "bounds": [
+      354,
+      0,
+      90,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindMain": {
+    "bounds": [
+      0,
+      0,
+      80,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindOther": {
+    "bounds": [
+      450,
+      0,
+      69,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      69,
+      28
+    ]
+  },
+  "connection.btnFindUs": {
+    "bounds": [
+      172,
+      0,
+      80,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFlagSearch": {
+    "bounds": [
+      495,
+      0,
+      23,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnForgotPassword": {
+    "bounds": [
+      392,
+      343,
+      140,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      133,
+      32
+    ]
+  },
+  "connection.btnRegister": {
+    "bounds": [
+      392,
+      305,
+      140,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      140,
+      32
+    ]
+  },
+  "connection.btnWhatsNew": {
+    "bounds": [
+      218,
+      210,
+      121,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      121,
+      28
+    ]
+  },
+  "connection.cbFlag": {
+    "bounds": [
+      0,
+      0,
+      491,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      278,
+      15
+    ]
+  },
+  "connection.chkAutoConnect": {
+    "bounds": [
+      96,
+      180,
+      519,
+      18
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      264,
+      18
+    ]
+  },
+  "connection.filler1": {
+    "bounds": [
+      491,
+      0,
+      4,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      4,
+      0
+    ]
+  },
+  "connection.filler2": {
+    "bounds": [
+      621,
+      80,
+      0,
+      62
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      0,
+      50
+    ]
+  },
+  "connection.jLabel1": {
+    "bounds": [
+      331,
+      120,
+      284,
+      16
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      284,
+      16
+    ]
+  },
+  "connection.jProxySettingsButton": {
+    "bounds": [
+      96,
+      210,
+      116,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      116,
+      28
+    ]
+  },
+  "connection.lblFastConnect": {
+    "bounds": [
+      6,
+      6,
+      72,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      62,
+      16
+    ]
+  },
+  "connection.lblFlag": {
+    "bounds": [
+      6,
+      148,
+      72,
+      18
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      61,
+      16
+    ]
+  },
+  "connection.lblPassword": {
+    "bounds": [
+      6,
+      114,
+      72,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      56,
+      16
+    ]
+  },
+  "connection.lblPort": {
+    "bounds": [
+      218,
+      8,
+      26,
+      16
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      26,
+      16
+    ]
+  },
+  "connection.lblServer": {
+    "bounds": [
+      6,
+      42,
+      72,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      72,
+      16
+    ]
+  },
+  "connection.lblStatus": {
+    "bounds": [
+      96,
+      269,
+      519,
+      24
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      0,
+      0
+    ]
+  },
+  "connection.lblUserName": {
+    "bounds": [
+      6,
+      80,
+      72,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      59,
+      16
+    ]
+  },
+  "connection.panelFast": {
+    "bounds": [
+      96,
+      6,
+      519,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      519,
+      30
+    ]
+  },
+  "connection.panelFlag": {
+    "bounds": [
+      96,
+      148,
+      519,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      305,
+      23
+    ]
+  },
+  "connection.panelServer": {
+    "bounds": [
+      96,
+      42,
+      519,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      489,
+      32
+    ]
+  },
+  "connection.registerUserDialog": {
+    "bounds": [
+      0,
+      0,
+      403,
+      340
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      400,
+      346
+    ]
+  },
+  "connection.resetPasswordDialog": {
+    "bounds": [
+      0,
+      0,
+      405,
+      504
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      401,
+      510
+    ]
+  },
+  "connection.txtPassword": {
+    "bounds": [
+      96,
+      114,
+      229,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "connection.txtPort": {
+    "bounds": [
+      250,
+      2,
+      75,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "connection.txtServer": {
+    "bounds": [
+      0,
+      2,
+      212,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "connection.txtUserName": {
+    "bounds": [
+      96,
+      80,
+      519,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "default.button.font": "sansserif/0/12.0",
+  "default.checkbox.font": "sansserif/0/12.0",
+  "default.combo.font": "sansserif/0/12.0",
+  "default.label.font": "sansserif/0/12.0",
+  "default.list.font": "sansserif/0/12.0",
+  "default.menu.font": "sansserif/0/12.0",
+  "default.spinner.font": "sansserif/0/12.0",
+  "default.table.font": "sansserif/0/12.0",
+  "default.tabs.font": "sansserif/0/12.0",
+  "default.textField.font": "sansserif/0/12.0",
+  "default.tree.font": "sansserif/0/12.0",
+  "dialogFontSetting": 34,
+  "scale": 2.0,
+  "sourceCommit": "289f3462386e20d6ffdbaf27c3d0ac2947cf5c63"
+}

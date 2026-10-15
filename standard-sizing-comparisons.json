@@ -1,0 +1,210 @@
+[
+  {
+    "Pair": "native100-font14",
+    "Scale": 1.0,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": true,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "native100-font17",
+    "Scale": 1.0,
+    "FontSetting": 17,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": true,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "native100-font23",
+    "Scale": 1.0,
+    "FontSetting": 23,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": true,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "native100-font34",
+    "Scale": 1.0,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": true,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "100-font14",
+    "Scale": 1.0,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "100-font17",
+    "Scale": 1.0,
+    "FontSetting": 17,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "100-font23",
+    "Scale": 1.0,
+    "FontSetting": 23,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "100-font34",
+    "Scale": 1.0,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1280,
+      900
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "scale1.25-font14",
+    "Scale": 1.25,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1600,
+      1125
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "scale1.25-font34",
+    "Scale": 1.25,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1600,
+      1125
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "scale1.5-font14",
+    "Scale": 1.5,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1920,
+      1350
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "scale1.5-font34",
+    "Scale": 1.5,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1920,
+      1350
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "scale2-font14",
+    "Scale": 2.0,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      2560,
+      1800
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "scale2-font34",
+    "Scale": 2.0,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      2560,
+      1800
+    ],
+    "ComponentFontsCompared": 46,
+    "Native100": false,
+    "FixedDeckDivider": null
+  },
+  {
+    "Pair": "deck-100-font14",
+    "Scale": 1.0,
+    "FontSetting": 14,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1920,
+      1080
+    ],
+    "ComponentFontsCompared": 134,
+    "Native100": false,
+    "FixedDeckDivider": 678
+  },
+  {
+    "Pair": "deck-100-font34",
+    "Scale": 1.0,
+    "FontSetting": 34,
+    "PixelsDifferent": 0,
+    "Canvas": [
+      1920,
+      1080
+    ],
+    "ComponentFontsCompared": 134,
+    "Native100": false,
+    "FixedDeckDivider": 678
+  }
+]

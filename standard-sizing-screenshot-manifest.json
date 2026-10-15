@@ -1,0 +1,130 @@
+[
+  {
+    "Path": "screenshots/standard-sizing/original-native100-font14.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-native100-font14.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-native100-font17.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-native100-font17.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-native100-font23.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-native100-font23.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-native100-font34.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-native100-font34.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-100-font14.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-100-font14.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-100-font17.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-100-font17.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-100-font23.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-100-font23.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-100-font34.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-100-font34.png",
+    "SHA256": "3a6a9f0a1977f1a102472ebcdf0bfc34a7ef3c02422566d22d970874817a8db5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-scale1.25-font14.png",
+    "SHA256": "13397a5e8bd445ecc68b22644ad6fb5c960a6d0bd6cea47609d23b504b162c75"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-scale1.25-font14.png",
+    "SHA256": "13397a5e8bd445ecc68b22644ad6fb5c960a6d0bd6cea47609d23b504b162c75"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-scale1.25-font34.png",
+    "SHA256": "13397a5e8bd445ecc68b22644ad6fb5c960a6d0bd6cea47609d23b504b162c75"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-scale1.25-font34.png",
+    "SHA256": "13397a5e8bd445ecc68b22644ad6fb5c960a6d0bd6cea47609d23b504b162c75"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-scale1.5-font14.png",
+    "SHA256": "4c3ee3a5d9a6a5f720418ac22b38c98fd53f645ebdfdddfabeafbe456a29aad5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-scale1.5-font14.png",
+    "SHA256": "4c3ee3a5d9a6a5f720418ac22b38c98fd53f645ebdfdddfabeafbe456a29aad5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-scale1.5-font34.png",
+    "SHA256": "4c3ee3a5d9a6a5f720418ac22b38c98fd53f645ebdfdddfabeafbe456a29aad5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-scale1.5-font34.png",
+    "SHA256": "4c3ee3a5d9a6a5f720418ac22b38c98fd53f645ebdfdddfabeafbe456a29aad5"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-scale2-font14.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-scale2-font14.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-scale2-font34.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-scale2-font34.png",
+    "SHA256": "09d2e60853a37e7587ad7b2f65d166969ed0ccf57cb29d3cbd5976a057804643"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-deck-100-font14.png",
+    "SHA256": "35c88b7e45bc6485d84840ab6af1bf0a67c86e7ed4985ab37d7541466248f114"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-deck-100-font14.png",
+    "SHA256": "35c88b7e45bc6485d84840ab6af1bf0a67c86e7ed4985ab37d7541466248f114"
+  },
+  {
+    "Path": "screenshots/standard-sizing/original-deck-100-font34.png",
+    "SHA256": "bfb0e7ecdcdddc40ce762fd436ea26165ffb24f148221497b2d18305538c2c07"
+  },
+  {
+    "Path": "screenshots/standard-sizing/restored-deck-100-font34.png",
+    "SHA256": "bfb0e7ecdcdddc40ce762fd436ea26165ffb24f148221497b2d18305538c2c07"
+  }
+]
