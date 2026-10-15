@@ -1,0 +1,1762 @@
+{
+  "cards.cardArea": {
+    "bounds": [
+      0,
+      0,
+      1194,
+      209
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      1,
+      1
+    ]
+  },
+  "cards.cbSortBy": {
+    "bounds": [
+      219,
+      0,
+      120,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      120,
+      20
+    ]
+  },
+  "cards.chkPiles": {
+    "bounds": [
+      153,
+      0,
+      54,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      54,
+      23
+    ]
+  },
+  "cards.jToggleCardView": {
+    "bounds": [
+      401,
+      0,
+      40,
+      22
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      40,
+      22
+    ]
+  },
+  "cards.jToggleListView": {
+    "bounds": [
+      351,
+      0,
+      44,
+      22
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      44,
+      22
+    ]
+  },
+  "cards.lblCount": {
+    "bounds": [
+      0,
+      2,
+      45,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      45,
+      20
+    ]
+  },
+  "cards.lblCreatureCount": {
+    "bounds": [
+      102,
+      2,
+      45,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      45,
+      20
+    ]
+  },
+  "cards.lblLandCount": {
+    "bounds": [
+      51,
+      2,
+      45,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      45,
+      20
+    ]
+  },
+  "cards.mainTable": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "Arial/0/34.0",
+    "preferred": [
+      730,
+      0
+    ]
+  },
+  "cards.panelCardArea": {
+    "bounds": [
+      1,
+      26,
+      1198,
+      213
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      5,
+      5
+    ]
+  },
+  "cards.panelControl": {
+    "bounds": [
+      0,
+      0,
+      1198,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      447,
+      23
+    ]
+  },
+  "connection.btnCancel": {
+    "bounds": [
+      537,
+      305,
+      77,
+      70
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      71,
+      32
+    ]
+  },
+  "connection.btnCheckStatus": {
+    "bounds": [
+      330,
+      0,
+      187,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnConnect": {
+    "bounds": [
+      97,
+      305,
+      286,
+      70
+    ],
+    "font": "Tahoma/1/11.0",
+    "preferred": [
+      133,
+      30
+    ]
+  },
+  "connection.btnFindBeta": {
+    "bounds": [
+      258,
+      0,
+      90,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindEU": {
+    "bounds": [
+      86,
+      0,
+      80,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindLocal": {
+    "bounds": [
+      354,
+      0,
+      90,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindMain": {
+    "bounds": [
+      0,
+      0,
+      80,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFindOther": {
+    "bounds": [
+      450,
+      0,
+      67,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      67,
+      28
+    ]
+  },
+  "connection.btnFindUs": {
+    "bounds": [
+      172,
+      0,
+      80,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnFlagSearch": {
+    "bounds": [
+      493,
+      0,
+      23,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "connection.btnForgotPassword": {
+    "bounds": [
+      389,
+      343,
+      142,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      134,
+      32
+    ]
+  },
+  "connection.btnRegister": {
+    "bounds": [
+      389,
+      305,
+      142,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      142,
+      32
+    ]
+  },
+  "connection.btnWhatsNew": {
+    "bounds": [
+      217,
+      210,
+      123,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      123,
+      28
+    ]
+  },
+  "connection.cbFlag": {
+    "bounds": [
+      0,
+      0,
+      489,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      278,
+      15
+    ]
+  },
+  "connection.chkAutoConnect": {
+    "bounds": [
+      97,
+      180,
+      517,
+      18
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      265,
+      18
+    ]
+  },
+  "connection.filler1": {
+    "bounds": [
+      489,
+      0,
+      4,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      4,
+      0
+    ]
+  },
+  "connection.filler2": {
+    "bounds": [
+      620,
+      80,
+      0,
+      62
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      0,
+      50
+    ]
+  },
+  "connection.jLabel1": {
+    "bounds": [
+      323,
+      120,
+      291,
+      16
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      291,
+      16
+    ]
+  },
+  "connection.jProxySettingsButton": {
+    "bounds": [
+      97,
+      210,
+      114,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      114,
+      28
+    ]
+  },
+  "connection.lblFastConnect": {
+    "bounds": [
+      6,
+      6,
+      73,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      62,
+      16
+    ]
+  },
+  "connection.lblFlag": {
+    "bounds": [
+      6,
+      148,
+      73,
+      18
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      62,
+      16
+    ]
+  },
+  "connection.lblPassword": {
+    "bounds": [
+      6,
+      114,
+      73,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      59,
+      16
+    ]
+  },
+  "connection.lblPort": {
+    "bounds": [
+      218,
+      8,
+      25,
+      16
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      25,
+      16
+    ]
+  },
+  "connection.lblServer": {
+    "bounds": [
+      6,
+      42,
+      73,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      73,
+      16
+    ]
+  },
+  "connection.lblStatus": {
+    "bounds": [
+      97,
+      269,
+      517,
+      24
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      0,
+      0
+    ]
+  },
+  "connection.lblUserName": {
+    "bounds": [
+      6,
+      80,
+      73,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      62,
+      16
+    ]
+  },
+  "connection.panelFast": {
+    "bounds": [
+      97,
+      6,
+      517,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      517,
+      30
+    ]
+  },
+  "connection.panelFlag": {
+    "bounds": [
+      97,
+      148,
+      517,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      305,
+      23
+    ]
+  },
+  "connection.panelServer": {
+    "bounds": [
+      97,
+      42,
+      517,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      491,
+      32
+    ]
+  },
+  "connection.registerUserDialog": {
+    "bounds": [
+      0,
+      0,
+      403,
+      340
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      403,
+      346
+    ]
+  },
+  "connection.resetPasswordDialog": {
+    "bounds": [
+      0,
+      0,
+      405,
+      504
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      405,
+      510
+    ]
+  },
+  "connection.txtPassword": {
+    "bounds": [
+      97,
+      114,
+      220,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "connection.txtPort": {
+    "bounds": [
+      249,
+      2,
+      75,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "connection.txtServer": {
+    "bounds": [
+      0,
+      2,
+      212,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "connection.txtUserName": {
+    "bounds": [
+      97,
+      80,
+      517,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "deck.bigCard": {
+    "bounds": [
+      15,
+      437,
+      261,
+      367
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      256,
+      367
+    ]
+  },
+  "deck.btnAddLand": {
+    "bounds": [
+      6,
+      6,
+      100,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      85,
+      32
+    ]
+  },
+  "deck.btnExit": {
+    "bounds": [
+      6,
+      11,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      47,
+      28
+    ]
+  },
+  "deck.btnExport": {
+    "bounds": [
+      112,
+      6,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      80,
+      28
+    ]
+  },
+  "deck.btnGenDeck": {
+    "bounds": [
+      112,
+      5,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      96,
+      28
+    ]
+  },
+  "deck.btnImport": {
+    "bounds": [
+      112,
+      6,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      81,
+      28
+    ]
+  },
+  "deck.btnLegality": {
+    "bounds": [
+      112,
+      6,
+      100,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      72,
+      28
+    ]
+  },
+  "deck.btnLoad": {
+    "bounds": [
+      6,
+      6,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      86,
+      36
+    ]
+  },
+  "deck.btnNew": {
+    "bounds": [
+      6,
+      5,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      74,
+      28
+    ]
+  },
+  "deck.btnSave": {
+    "bounds": [
+      6,
+      6,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      76,
+      28
+    ]
+  },
+  "deck.btnSubmit": {
+    "bounds": [
+      6,
+      6,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      90,
+      28
+    ]
+  },
+  "deck.btnSubmitTimer": {
+    "bounds": [
+      112,
+      6,
+      100,
+      30
+    ],
+    "font": "Tahoma/0/9.0",
+    "preferred": [
+      79,
+      34
+    ]
+  },
+  "deck.cardInfoPane": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      0,
+      0
+    ]
+  },
+  "deck.cardSelector": {
+    "bounds": [
+      0,
+      0,
+      1621,
+      677
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      1057,
+      327
+    ]
+  },
+  "deck.deckArea": {
+    "bounds": [
+      1,
+      688,
+      1621,
+      391
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      1326,
+      41
+    ]
+  },
+  "deck.deckLegalityDisplay": {
+    "bounds": [
+      145,
+      0,
+      0,
+      0
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      1765,
+      35
+    ]
+  },
+  "deck.fcExportDeck": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      529,
+      309
+    ]
+  },
+  "deck.fcImportDeck": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      541,
+      309
+    ]
+  },
+  "deck.fcSelectDeck": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      529,
+      309
+    ]
+  },
+  "deck.lblDeckName": {
+    "bounds": [
+      6,
+      7,
+      68,
+      16
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      68,
+      16
+    ]
+  },
+  "deck.panelDeck": {
+    "bounds": [
+      0,
+      0,
+      291,
+      252
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      291,
+      252
+    ]
+  },
+  "deck.panelDeckCreate": {
+    "bounds": [
+      0,
+      30,
+      291,
+      35
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      282,
+      35
+    ]
+  },
+  "deck.panelDeckDraft": {
+    "bounds": [
+      0,
+      137,
+      291,
+      36
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      282,
+      36
+    ]
+  },
+  "deck.panelDeckExit": {
+    "bounds": [
+      0,
+      211,
+      291,
+      41
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      282,
+      41
+    ]
+  },
+  "deck.panelDeckLands": {
+    "bounds": [
+      0,
+      173,
+      291,
+      38
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      282,
+      38
+    ]
+  },
+  "deck.panelDeckLoad": {
+    "bounds": [
+      0,
+      65,
+      291,
+      36
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      282,
+      36
+    ]
+  },
+  "deck.panelDeckName": {
+    "bounds": [
+      0,
+      0,
+      291,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      291,
+      30
+    ]
+  },
+  "deck.panelDeckSave": {
+    "bounds": [
+      0,
+      101,
+      291,
+      36
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      282,
+      36
+    ]
+  },
+  "deck.panelInfo": {
+    "bounds": [
+      0,
+      0,
+      291,
+      810
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      286,
+      379
+    ]
+  },
+  "deck.panelLeft": {
+    "bounds": [
+      0,
+      0,
+      291,
+      1080
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      291,
+      649
+    ]
+  },
+  "deck.panelRight": {
+    "bounds": [
+      297,
+      0,
+      1623,
+      1080
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      1328,
+      380
+    ]
+  },
+  "deck.scrollPaneInfo": {
+    "bounds": [
+      0,
+      264,
+      291,
+      810
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      286,
+      379
+    ]
+  },
+  "deck.txtDeckName": {
+    "bounds": [
+      80,
+      0,
+      205,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "deck.txtTimeRemaining": {
+    "bounds": [
+      112,
+      11,
+      100,
+      30
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "deckDivider": 678,
+  "default.button.font": "sansserif/0/12.0",
+  "default.checkbox.font": "sansserif/0/12.0",
+  "default.combo.font": "sansserif/0/12.0",
+  "default.label.font": "sansserif/0/12.0",
+  "default.list.font": "sansserif/0/12.0",
+  "default.menu.font": "sansserif/0/12.0",
+  "default.spinner.font": "sansserif/0/12.0",
+  "default.table.font": "sansserif/0/12.0",
+  "default.tabs.font": "sansserif/0/12.0",
+  "default.textField.font": "sansserif/0/12.0",
+  "default.tree.font": "sansserif/0/12.0",
+  "device": "\\Display1",
+  "dialogFontSetting": 34,
+  "native100": false,
+  "native200": false,
+  "scale": 1.0,
+  "selector.btnBooster": {
+    "bounds": [
+      596,
+      4,
+      84,
+      24
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      84,
+      24
+    ]
+  },
+  "selector.btnClear": {
+    "bounds": [
+      680,
+      4,
+      38,
+      24
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      38,
+      24
+    ]
+  },
+  "selector.btnExpansionSearch": {
+    "bounds": [
+      430,
+      5,
+      23,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      23,
+      23
+    ]
+  },
+  "selector.cardCount": {
+    "bounds": [
+      848,
+      10,
+      48,
+      16
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      7,
+      16
+    ]
+  },
+  "selector.cardCountLabel": {
+    "bounds": [
+      779,
+      10,
+      63,
+      16
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      63,
+      16
+    ]
+  },
+  "selector.cardGrid": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "",
+    "preferred": [
+      294,
+      197
+    ]
+  },
+  "selector.cardSelectorBottomPanel": {
+    "bounds": [
+      0,
+      646,
+      1621,
+      31
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      897,
+      40
+    ]
+  },
+  "selector.cardSelectorScrollPane": {
+    "bounds": [
+      0,
+      59,
+      1621,
+      587
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      456,
+      452
+    ]
+  },
+  "selector.cbExpansionSet": {
+    "bounds": [
+      180,
+      4,
+      250,
+      25
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      250,
+      25
+    ]
+  },
+  "selector.cbSortBy": {
+    "bounds": [
+      268,
+      3,
+      120,
+      20
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      120,
+      20
+    ]
+  },
+  "selector.chkNames": {
+    "bounds": [
+      499,
+      4,
+      67,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      67,
+      16
+    ]
+  },
+  "selector.chkPennyDreadful": {
+    "bounds": [
+      463,
+      7,
+      133,
+      18
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      133,
+      18
+    ]
+  },
+  "selector.chkPiles": {
+    "bounds": [
+      208,
+      4,
+      50,
+      18
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      50,
+      18
+    ]
+  },
+  "selector.chkRules": {
+    "bounds": [
+      641,
+      4,
+      59,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      59,
+      16
+    ]
+  },
+  "selector.chkTypes": {
+    "bounds": [
+      572,
+      4,
+      63,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      63,
+      16
+    ]
+  },
+  "selector.chkUnique": {
+    "bounds": [
+      705,
+      4,
+      69,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      69,
+      16
+    ]
+  },
+  "selector.jButtonAddToMain": {
+    "bounds": [
+      6,
+      4,
+      30,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      30,
+      28
+    ]
+  },
+  "selector.jButtonAddToSideboard": {
+    "bounds": [
+      69,
+      4,
+      30,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      30,
+      28
+    ]
+  },
+  "selector.jButtonClean": {
+    "bounds": [
+      435,
+      4,
+      58,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      58,
+      28
+    ]
+  },
+  "selector.jButtonRemoveFromMain": {
+    "bounds": [
+      38,
+      4,
+      30,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      30,
+      28
+    ]
+  },
+  "selector.jButtonRemoveFromSideboard": {
+    "bounds": [
+      101,
+      4,
+      30,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      30,
+      28
+    ]
+  },
+  "selector.jButtonSearch": {
+    "bounds": [
+      362,
+      4,
+      67,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      67,
+      28
+    ]
+  },
+  "selector.jSeparator1": {
+    "bounds": [
+      170,
+      2,
+      10,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      10,
+      10
+    ]
+  },
+  "selector.jSeparator2": {
+    "bounds": [
+      453,
+      2,
+      10,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      10,
+      10
+    ]
+  },
+  "selector.jSeparator3": {
+    "bounds": [
+      258,
+      2,
+      10,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      10,
+      10
+    ]
+  },
+  "selector.jSeparator4": {
+    "bounds": [
+      388,
+      2,
+      10,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      10,
+      10
+    ]
+  },
+  "selector.jSeparator5": {
+    "bounds": [
+      472,
+      2,
+      10,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      10,
+      10
+    ]
+  },
+  "selector.jSeparator6": {
+    "bounds": [
+      198,
+      2,
+      10,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      10,
+      10
+    ]
+  },
+  "selector.jTextFieldSearch": {
+    "bounds": [
+      137,
+      4,
+      219,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      13,
+      28
+    ]
+  },
+  "selector.jToggleCardView": {
+    "bounds": [
+      435,
+      2,
+      37,
+      22
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      37,
+      22
+    ]
+  },
+  "selector.jToggleListView": {
+    "bounds": [
+      398,
+      2,
+      37,
+      22
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      37,
+      22
+    ]
+  },
+  "selector.listCodeSelected": {
+    "bounds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      0,
+      0
+    ]
+  },
+  "selector.mainTable": {
+    "bounds": [
+      0,
+      0,
+      1615,
+      0
+    ],
+    "font": "Arial/0/34.0",
+    "preferred": [
+      720,
+      0
+    ]
+  },
+  "selector.tbArifiacts": {
+    "bounds": [
+      58,
+      2,
+      28,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbBlack": {
+    "bounds": [
+      86,
+      2,
+      28,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbBlue": {
+    "bounds": [
+      58,
+      2,
+      28,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbColor": {
+    "bounds": [
+      0,
+      0,
+      1621,
+      32
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      720,
+      32
+    ]
+  },
+  "selector.tbColorless": {
+    "bounds": [
+      142,
+      2,
+      28,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbCommon": {
+    "bounds": [
+      2,
+      2,
+      28,
+      19
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbCreatures": {
+    "bounds": [
+      30,
+      2,
+      28,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbEnchantments": {
+    "bounds": [
+      142,
+      2,
+      28,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbGreen": {
+    "bounds": [
+      30,
+      2,
+      28,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbInstants": {
+    "bounds": [
+      114,
+      2,
+      28,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbLand": {
+    "bounds": [
+      2,
+      2,
+      28,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbMythic": {
+    "bounds": [
+      86,
+      2,
+      28,
+      19
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbPlaneswalkers": {
+    "bounds": [
+      170,
+      2,
+      28,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbRare": {
+    "bounds": [
+      58,
+      2,
+      28,
+      19
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbRarities": {
+    "bounds": [
+      482,
+      2,
+      144,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      144,
+      32
+    ]
+  },
+  "selector.tbRed": {
+    "bounds": [
+      2,
+      2,
+      28,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbSorceries": {
+    "bounds": [
+      86,
+      2,
+      28,
+      23
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbSpecial": {
+    "bounds": [
+      114,
+      2,
+      28,
+      19
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbTypes": {
+    "bounds": [
+      0,
+      32,
+      1621,
+      27
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      732,
+      27
+    ]
+  },
+  "selector.tbUncommon": {
+    "bounds": [
+      30,
+      2,
+      28,
+      19
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "selector.tbWhite": {
+    "bounds": [
+      114,
+      2,
+      28,
+      28
+    ],
+    "font": "sansserif/0/12.0",
+    "preferred": [
+      28,
+      28
+    ]
+  },
+  "sourceCommit": "2574db4d9466ff096ec3361ca181088ef39504f1"
+}

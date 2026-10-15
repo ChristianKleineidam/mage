@@ -1,0 +1,263 @@
+{
+  "Base": "492369c7844b8d76479f0393ff9eb6b0b0cf30d7",
+  "Foundation": "9aeafb41952bcadea23f39ffdd2437617ff9230b",
+  "Combined": "2574db4d9466ff096ec3361ca181088ef39504f1",
+  "StandaloneCrash": "aff72e290905abbb375db30801c413c2167b92ba",
+  "FontPolicy": {
+    "Foundation": "9aeafb41952bcadea23f39ffdd2437617ff9230b",
+    "Base": "492369c7844b8d76479f0393ff9eb6b0b0cf30d7",
+    "GuiSizeHelperIdenticalToUpstreamOnAllSixBranches": true,
+    "PresetValuesAndKeysUnchanged": true,
+    "DefaultValuesUnchanged": true,
+    "SelectableRange": [
+      7,
+      99
+    ],
+    "LocalPreferenceResetIncludedInPr": false,
+    "DamageSpinnerFont": "Original look-and-feel bindings, checked against a fresh JSpinner",
+    "HiDpiFontRendering": "Same logical font sizes; device transforms affect raster resolution only"
+  },
+  "ScalingBranches": [
+    {
+      "Branch": "codex/gui-font-layout",
+      "Commit": "9aeafb41952bcadea23f39ffdd2437617ff9230b",
+      "Tests": 49,
+      "Passed": 39,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    },
+    {
+      "Branch": "codex/gui-draft-divider",
+      "Commit": "c1e86879496b41e2be7f2791d6fd7bef7f5bb269",
+      "Tests": 53,
+      "Passed": 43,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    },
+    {
+      "Branch": "codex/gui-damage-layout",
+      "Commit": "59f27d9f42663febbf41d40d528acbc4d6dd8e15",
+      "Tests": 52,
+      "Passed": 42,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    },
+    {
+      "Branch": "codex/gui-popup-position",
+      "Commit": "05113b16ca715e0772ae36587c64fba224923d33",
+      "Tests": 51,
+      "Passed": 41,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    },
+    {
+      "Branch": "codex/gui-hidpi-rendering",
+      "Commit": "260b035db5d33280e76c04895b7aacab04c50784",
+      "Tests": 55,
+      "Passed": 45,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    },
+    {
+      "Branch": "codex/gui-deck-filter",
+      "Commit": "8bfb136f4899d999382c53d3e0084bd3eec2841a",
+      "Tests": 53,
+      "Passed": 43,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    }
+  ],
+  "StandaloneTests": {
+    "8": {
+      "Cases": 27,
+      "Passed": 16,
+      "Skipped": 11,
+      "Failures": 0,
+      "Errors": 0
+    },
+    "17": {
+      "Cases": 27,
+      "Passed": 17,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    },
+    "21": {
+      "Cases": 27,
+      "Passed": 17,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    }
+  },
+  "CombinedTests": {
+    "8": {
+      "Cases": 70,
+      "Passed": 59,
+      "Skipped": 11,
+      "Failures": 0,
+      "Errors": 0
+    },
+    "17": {
+      "Cases": 70,
+      "Passed": 60,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    },
+    "21": {
+      "Cases": 70,
+      "Passed": 60,
+      "Skipped": 10,
+      "Failures": 0,
+      "Errors": 0
+    }
+  },
+  "GuiTestsPerScale": 45,
+  "MatchedPairs": [
+    {
+      "Pair": "native100-font14",
+      "Scale": 1.0,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "native100-font17",
+      "Scale": 1.0,
+      "DialogFont": 17,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "native100-font23",
+      "Scale": 1.0,
+      "DialogFont": 23,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "native100-font34",
+      "Scale": 1.0,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "100-font14",
+      "Scale": 1.0,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "100-font17",
+      "Scale": 1.0,
+      "DialogFont": 17,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "100-font23",
+      "Scale": 1.0,
+      "DialogFont": 23,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "100-font34",
+      "Scale": 1.0,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "scale1.25-font14",
+      "Scale": 1.25,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "scale1.25-font34",
+      "Scale": 1.25,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "scale1.5-font14",
+      "Scale": 1.5,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "scale1.5-font34",
+      "Scale": 1.5,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "scale2-font14",
+      "Scale": 2.0,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "scale2-font34",
+      "Scale": 2.0,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "deck-100-font14",
+      "Scale": 1.0,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "deck-100-font34",
+      "Scale": 1.0,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "menu-native100-font14",
+      "Scale": 1.0,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "menu-native100-font17",
+      "Scale": 1.0,
+      "DialogFont": 17,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "menu-native100-font23",
+      "Scale": 1.0,
+      "DialogFont": 23,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "menu-native100-font34",
+      "Scale": 1.0,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "native200-font14",
+      "Scale": 2.0,
+      "DialogFont": 14,
+      "PixelsDifferent": 0
+    },
+    {
+      "Pair": "native200-font34",
+      "Scale": 2.0,
+      "DialogFont": 34,
+      "PixelsDifferent": 0
+    }
+  ],
+  "LiveInstalledTest": {
+    "Commit": "1857e0b8fb1ba6f4e13793f1f3e441f489123fde",
+    "Scale": 2,
+    "Result": "Operator confirmed a real image-download and window-drag test succeeded; agent checked the new log segment and found zero GUI crashes.",
+    "Limit": "A complete 26490-image queue was not independently observed; no full-queue completion claim is made."
+  }
+}
