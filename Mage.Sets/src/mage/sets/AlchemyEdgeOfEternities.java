@@ -1,6 +1,7 @@
 package mage.sets;
 
 import mage.cards.ExpansionSet;
+import mage.constants.Rarity;
 import mage.constants.SetType;
 
 public final class AlchemyEdgeOfEternities extends ExpansionSet {
@@ -21,7 +22,7 @@ public final class AlchemyEdgeOfEternities extends ExpansionSet {
 
         // Hydroponics Architect (6)
 
-        // Val, Marooned Surveyor (26)
+        cards.add(new SetCardInfo("Val, Marooned Surveyor", 26, Rarity.UNCOMMON, mage.cards.v.ValMaroonedSurveyor.class));
 
     }
 }
